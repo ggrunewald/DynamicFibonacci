@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FibonacciDinamico</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fibonacci">EXECUTAR FIBONACCI</string>
+    <string name="indice">Índice a procurar:</string>
+</resources>
